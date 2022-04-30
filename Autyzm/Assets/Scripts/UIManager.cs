@@ -13,7 +13,7 @@ public class UIManager : MonoBehaviour
     [SerializeField] private Text pointsDisplay;
     [SerializeField] private Animator pointsAnimation;
     [SerializeField] private GameObject descriptions;
-    [SerializeField] private Button[] moodButtons;SSS
+    [SerializeField] private Button[] moodButtons;
 
     public Animator PointsAnimation => pointsAnimation;
 
